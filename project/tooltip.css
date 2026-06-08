@@ -1,0 +1,36 @@
+#dict-box {
+  position: absolute;
+  z-index: 999999;
+  width: 300px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 12px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+  font-family: Arial, sans-serif;
+}
+
+#closeBtn {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+#closeBtn:hover {
+  color: red;
+}
+
+#playAudio {
+  margin-top: 10px;
+  padding: 6px 10px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#playAudio:hover {
+  background: #1d4ed8;
+}

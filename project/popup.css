@@ -1,0 +1,13 @@
+body {
+  width: 250px;
+  font-family: Arial;
+  padding: 10px;
+}
+
+h3 {
+  color: #2563eb;
+}
+
+li {
+  margin: 5px 0;
+}
